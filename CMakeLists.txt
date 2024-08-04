@@ -14,3 +14,4 @@ add_subdirectory(profiler)
 
 add_subdirectory(erasure)
 add_subdirectory(stream)
+add_subdirectory(crtp)
